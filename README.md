@@ -40,13 +40,17 @@ Lab consists of a create and perform an eDiscovery hold for Content Search by us
 
 <p align="center">
 Datalifecycle Management & MS365:  <br/>
-<img src="ms 365.png" height="50%" width="50%" />
+<img src="ms 365 1.png" height="50%" width="50%" />
 <br />
 <br />
 Create a new Retention policy & Give a Name: <br/>
 <img src="retention policy name.png" height="50%" width="50%" />
 <br />
 <br />
+Select a Scope of Retention policy: <br/>
+<img src="scop.png" height="50%" width="50%" />
+<br />
+<br />	
 Choose a Location (Teams): <br/>
 <img src="location.png" height="50%" width="50%"/>
 <br />
