@@ -2,7 +2,7 @@
 Create a static 10 year deletion retention policy for Teams. Create forever label for MS365 groups.
 
 <h2>Description</h2>
-Lab consists of a create and perform an eDiscovery hold for Content Search by using Compliance Purview Portal. Microsoft Purview eDiscovery (Standard) in Microsoft Purview provides a basic eDiscovery tool that organizations can use to search and export content in Microsoft 365 and Office 365.  can also use eDiscovery (Standard) to place an eDiscovery hold on content locations, such as Exchange mailboxes, SharePoint sites, OneDrive accounts, and Microsoft Teams.
+Lab consists of a create and pulish Retention Forever Label by using Purview Compliance Portal. Use a retention policy to assign the same retention settings for content at a site or mailbox level, and use a retention label to assign retention settings at an item level (folder, document, email). In this Lab we have create and publish retention policy for Teams and label for Microsoft 365 Groups.
 <br />
 
 
@@ -12,13 +12,11 @@ Lab consists of a create and perform an eDiscovery hold for Content Search by us
 
 <h2>Prerequisites</h2>
 
--<b> Configuration Profile can be created or modified by anyone assigned the following roles:
- - eDiscovery Manager
- - eDiscovery Administrator
- - Case Management
+-<b> Retention Policies & Labels can be created or modified by anyone assigned the following roles:
+ - Compliance Administrator
  - Global Administrator
  </b>
-- <b> Licenses: Exchange online Plan 2 or  Microsoft 365 E3 OR Office 365 E3 license or higher OR Office 365 E1 license with a SharePoint Online Plan 2 OR OneDrive for Business Plan 2 add-on license</b>
+- <b> Licenses:  Microsoft 365 E5 or Free Trial license</b>
 
 <h2>Program walk-through:</h2>
 
@@ -59,31 +57,35 @@ Select Retention Period: <br/>
 <img src="decide period.png" height="65%" width="50%"/>
 <br />
 <br />
-Query Section: <br/>
-<img src="query.png" height="65%" width="50%"/>
-<br />
-<br />
 Review & Submit: <br/>
-<img src="review.png" height="65%" width="50%"/>
+<img src="Review & Finish Policy.png" height="65%" width="50%"/>
 <br />
 <br />
-Result: <br/>
+Retention Label Settings: <br/>
+<img src="label set.png" height="65%" width="50%"/>
+<br />
+<br />
+Label Settings: <br/>
+<img src="r period 2.png" height="65%" width="50%"/>
+<br />
+<br />
+Review Finish & Create Label: <br/>
+<img src="label creation.png" height="65%" width="50%"/>
+<br />
+<br />
+Choose location of Publish Label: microsoft 365 groups <br/>
+<img src="Location of public label.png" height="65%" width="50%"/>
+<br />
+<br />
+Choose Scope of Publish Label: <br/>
+<img src="scope of publish label.png" height="65%" width="50%"/>
+<br />
+<br />
+Result of Publish Label: <br/>
 <img src="result.png" height="65%" width="50%"/>
 <br />
 <br />
-Query Section: <br/>
-<img src="query.png" height="65%" width="50%"/>
-<br />
-<br />
-Review & Submit: <br/>
-<img src="review.png" height="65%" width="50%"/>
-<br />
-<br />
-Result: <br/>
-<img src="result.png" height="65%" width="50%"/>
-<br />
-<br />
-
+	
 </p>
 
 <!--
