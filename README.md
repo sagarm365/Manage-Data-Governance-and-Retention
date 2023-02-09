@@ -39,20 +39,32 @@ Lab consists of a create and perform an eDiscovery hold for Content Search by us
 <h3>Screenshots:</h3>
 
 <p align="center">
-Purview Portal & eDiscovery Standard:  <br/>
-<img src="eDiscovery.png" height="50%" width="50%" />
+Datalifecycle Management & MS365:  <br/>
+<img src="ms 365.png" height="50%" width="50%" />
 <br />
 <br />
-Create New & Give Name: <br/>
-<img src="new case.png" height="50%" width="50%" />
+Create a new Retention policy & Give a Name: <br/>
+<img src="retention policy name.png" height="50%" width="50%" />
 <br />
 <br />
-Check active status & go to hold tab: <br/>
-<img src="active status of case.png" height="50%" width="50%"/>
+Choose a Location (Teams): <br/>
+<img src="location.png" height="50%" width="50%"/>
 <br />
 <br />
-Choose Locations: <br/>
-<img src="locations.png" height="65%" width="50%"/>
+Select Retention Period: <br/>
+<img src="decide period.png" height="65%" width="50%"/>
+<br />
+<br />
+Query Section: <br/>
+<img src="query.png" height="65%" width="50%"/>
+<br />
+<br />
+Review & Submit: <br/>
+<img src="review.png" height="65%" width="50%"/>
+<br />
+<br />
+Result: <br/>
+<img src="result.png" height="65%" width="50%"/>
 <br />
 <br />
 Query Section: <br/>
