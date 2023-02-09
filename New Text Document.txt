@@ -1,0 +1,12 @@
+Create a static 10 year deletion retention policy for Teams. Create forever label for MS365 groups.
+Steps:
+1.	Go to  Microsoft purview portal  Data lifecycle management Microsoft 365
+2.	Retention policies  new retention policy  give name and choose type of policy
+3.	Locations  -> select Teams  
+4.	Select Retention period ’10 years’
+5.	Review finish and Submit
+6.	Go to ‘Labels’ tab in Data lifecycle management  create new -> name it
+7.	Define label settings ‘Forever’,  period ‘Forever’   Review Finish
+8.	Go to Label policies tab  publish label   choose a label
+9.	Choose scope ‘static’ and choose locations
+10.	Name a policy and Finish it
